@@ -1,6 +1,3 @@
-# Anthony Shuker/Emobe
-<br />
-
 ## About Me
 I am a JavaScript developer who specialises in Front-end
 
